@@ -1,3 +1,7 @@
-export default function Home() {
-  return <h1>Eu te amo Samira</h1>;
+export default function HomePage() {
+  return (
+    <div>
+      <h1>Olá, este é o Next.js com Pages Router!</h1>
+    </div>
+  )
 }
